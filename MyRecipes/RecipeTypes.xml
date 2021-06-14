@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<recipes>
+    <type>
+        <titleID>R0</titleID>
+        <title>All</title>
+    </type>
+    <type>
+        <titleID>R1</titleID>
+        <title>Breakfast</title>
+    </type>
+    <type>
+        <titleID>R2</titleID>
+        <title>Lunch</title>
+    </type>
+    <type>
+        <titleID>R3</titleID>
+        <title>Desserts</title>
+    </type>
+    <type>
+        <titleID>R4</titleID>
+        <title>Drinks</title>
+    </type>
+</recipes>
